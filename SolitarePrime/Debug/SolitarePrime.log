@@ -1,0 +1,6 @@
+﻿  Card.cpp
+  Deck.cpp
+C:\Users\WolfM\source\repos\SolitarePrime\SolitarePrime\Deck.cpp(36,6): warning C4101: 'x': unreferenced local variable
+  solitairePrime.cpp
+  Generating Code...
+  SolitarePrime.vcxproj -> C:\Users\WolfM\source\repos\SolitarePrime\Debug\SolitarePrime.exe
